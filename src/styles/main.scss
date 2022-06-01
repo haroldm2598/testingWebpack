@@ -1,0 +1,9 @@
+$color: brown;
+$white: #fff;
+$small: 2rem;
+
+.hello {
+	background-color: $color;
+	color: $white;
+	font-size: $small;
+}
